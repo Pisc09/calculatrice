@@ -3,6 +3,11 @@
   background-color: black;
 }
 
+input {
+  width: auto;
+  color: white;
+}
+
 #ecrand {
   height: 80px;
   display: flex;
@@ -11,6 +16,7 @@
   color: white;
   padding-right: 20px;
   font-size: 30px;
+  background-color: black;
 }
 
 .clavier {
